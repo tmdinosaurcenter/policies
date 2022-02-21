@@ -2,23 +2,24 @@
 
 ## Purpose
 
-“A nonprofit should encourage internal communication that welcomes alternative perspectives, encourages participation at all levels, minimizes defensiveness, and builds and maintains camaraderie. Management should actively solicit, carefully listen, and respectfully respond to the views of internal constituents.
+“_A nonprofit should encourage internal communication that welcomes alternative perspectives, encourages participation at all levels, minimizes defensiveness, and builds and maintains camaraderie. Management should actively solicit, carefully listen, and respectfully respond to the views of internal constituents._
 
-“Internal communications should be guided by a clear policies and practices manual, regularly scheduled and attended meetings, regularly printed and/or emailed informational updates, an understood forum for suggestions, and reports on meetings of the board of directors and its committees.”
+_“Internal communications should be guided by a clear policies and practices manual, regularly scheduled and attended meetings, regularly printed and/or emailed informational updates, an understood forum for suggestions, and reports on meetings of the board of directors and its committees._”
 
-From \_Guidelines and Principles for Nonprofit Excellence \_([https://guidelinesandprinciples.org/wiki/index.php/Communications\_Plan](https://guidelinesandprinciples.org/wiki/index.php/Communications\_Plan))
+From [_Guidelines and Principles for Nonprofit Excellence_](https://guidelinesandprinciples.org/wiki/index.php/Communications\_Plan)__
 
 ## Notice of Meetings
 
-“If notice is given of a regular or special meeting, notice must be given to each Director either personally, by U.S. mail or private carrier, or other form of electronic, wire, or wireless communication by correct address or authenticated electronic identification shown in the Corporation’s record of Directors. If e-mailed, a notice shall be deemed delivered when delivery receipt is received or an electronic notice of delivery is returned to the sender of the notice. If mailed, a notice shall be deemed delivered at the earliest of
+“If notice is given of a regular or special meeting, notice must be given to each Director either personally, by U.S. mail or private carrier, or other form of electronic, wire, or wireless communication by correct address or authenticated electronic identification shown in the Corporation’s record of Directors. If e-mailed, a notice shall be deemed delivered when delivery receipt is received or an electronic notice of delivery is returned to the sender of the notice. If mailed, a notice shall be deemed delivered at the earliest of\
 
-```
-"A. five days after deposited in the U.S. mail, as evidenced by the postmark, if it is mailed postpaid and with the correct postage to the Director,
-B. the date shown on the return receipt if sent by registered or certified mail and the receipt is signed by or on behalf of the Director, or
-C. the date received."
 
-From _The Montana Dinosaur Center Bylaws 2020_.
-```
+1\. five days after deposited in the U.S. mail, as evidenced by the postmark, if it is mailed postpaid and with the correct postage to the Director,
+
+2\. the date shown on the return receipt if sent by registered or certified mail and the receipt is signed by or on behalf of the Director, or
+
+3\. the date received.
+
+From [_The Montana Dinosaur Center Bylaws_](https://docs.tmdinosaurcenter.org/policies-and-info/KHxCR15iKwLXTyQyEIfo/v/bylaws/bylaws)_,_ 2020.
 
 ## Submitting Feedback
 
@@ -34,36 +35,31 @@ Agenda items with supporting documents will be uploaded to the Board’s Google 
 
 ### Issues and Suggestions
 
-```
 Issues and suggestions should be brought to the attention of the Board President to be addressed. If a board member feels uncomfortable discussing the matter with the President they may request another board member to contact the President on their behalf or they may approach another officer.
-```
 
 ## Committees
 
-```
 Committees are appointed by the President, if you would like to serve on a committee please submit a request for consideration.
-```
 
 ## Etiquette and Conduct
 
-```
 Please be kind to each other. Every member of the board wants to do what’s best for the organization and that might be different for each person. Use your communications to improve and propel the board and the organization forward.
-```
 
 ## Meeting Communication Schedule
 
 Below is a schedule for board meeting communications. It is the responsibility of each individual board member to check their email for these communications. If there are issues receiving these communications, it is the responsibility of the individual board member to contact the President or Secretary to identify the source of the error and remedy it.
 
-| 20 Days Before Meeting:   | Notification of the meeting sent out via U.S. postal mail (if necessary).                                                                                                                                                                                                                                                                                                 |
-| ------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 15 Days Before Meeting:   | Notification of the meeting sent out via email.                                                                                                                                                                                                                                                                                                                           |
+|          Timline          | Action                                                                                                                                                                                                                                                                                                                                                                    |
+| :-----------------------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+|  20 Days Before Meeting:  | Notification of the meeting sent out via U.S. postal mail (if necessary).                                                                                                                                                                                                                                                                                                 |
+|  15 Days Before Meeting:  | Notification of the meeting sent out via email.                                                                                                                                                                                                                                                                                                                           |
 | 14-9 Days Before Meeting: |                                                                                                                                                                                                                                                                                                                                                                           |
-| 8 Days Before Meeting:    | Agenda item requests due to the President.                                                                                                                                                                                                                                                                                                                                |
-| 7 Days Before Meeting:    | <p>Agenda will be uploaded to the Board’s Google Drive folder (link to view below)</p><p><a href="https://drive.google.com/drive/folders/1TFdCfDbVaY0YKpM2QPE43r7F72UBSPSj?usp=sharing">https://drive.google.com/drive/folders/1TFdCfDbVaY0YKpM2QPE43r7F72UBSPSj?usp=sharing</a></p>                                                                                      |
-| 6-4 Days Before Meeting:  |                                                                                                                                                                                                                                                                                                                                                                           |
-| 3 Days Before Meeting:    | Officer and committee/project reports due to the President or Secretary; they will be uploaded to the Board’s Google Drive folder as they come in.                                                                                                                                                                                                                        |
-| 2 Days Before Meeting:    | <p>Email sent out with digital attachments of meeting documents, as well as instructions for connecting to the meeting remotely.</p><p>Board members that are unable to attend the meeting are encouraged to notify the President or Secretary at least 2 days before the meeting.</p>                                                                                    |
-| 1 Day Before Meeting:     |                                                                                                                                                                                                                                                                                                                                                                           |
+|   8 Days Before Meeting:  | Agenda item requests due to the President.                                                                                                                                                                                                                                                                                                                                |
+|   7 Days Before Meeting:  | <p>Agenda will be uploaded to the Board’s Google Drive folder (link to view below)</p><p><a href="https://drive.google.com/drive/folders/1TFdCfDbVaY0YKpM2QPE43r7F72UBSPSj?usp=sharing">https://drive.google.com/drive/folders/1TFdCfDbVaY0YKpM2QPE43r7F72UBSPSj?usp=sharing</a></p>                                                                                      |
+|  6-4 Days Before Meeting: |                                                                                                                                                                                                                                                                                                                                                                           |
+|   3 Days Before Meeting:  | Officer and committee/project reports due to the President or Secretary; they will be uploaded to the Board’s Google Drive folder as they come in.                                                                                                                                                                                                                        |
+|   2 Days Before Meeting:  | <p>Email sent out with digital attachments of meeting documents, as well as instructions for connecting to the meeting remotely.</p><p>Board members that are unable to attend the meeting are encouraged to notify the President or Secretary at least 2 days before the meeting.</p>                                                                                    |
+|   1 Day Before Meeting:   |                                                                                                                                                                                                                                                                                                                                                                           |
 | Day of the Board Meeting: | <p>Remote board members are encouraged to log on to the online meeting platform 10-15 minutes early in case of problems.</p><p>Board members that are not present 5 minutes before the meeting and have not notified the President or Secretary of their absence will receive one phone call from a fellow board member in an attempt to connect them to the meeting.</p> |
 
 **Board Member Contact Information**
