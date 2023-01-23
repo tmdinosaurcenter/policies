@@ -1,0 +1,5 @@
+# Equal Employment Opportunity
+
+It is the policy of The Montana Dinosaur Center to provide equal employment opportunities to all employees and employment applicants without regard to unlawful considerations of race, religion, creed, color, national origin, sex, sexual orientation, gender identity, age, ancestry, physical or mental disability, medical condition including medical characteristics, marital status or any other classification protected by applicable local, state or federal laws. This policy prohibits unlawful discrimination based on the perception that anyone has any of those characteristics or is associated with a person who has or is perceived as having any of those characteristics. This policy applies to all aspects of employment, including, but not limited to, hiring, job assignment, working conditions, compensation, promotion, benefits, scheduling, training, discipline and termination.
+
+The Company expects all employees to support our equal employment opportunity policy, and to take all steps necessary to maintain a workplace free from unlawful discrimination and harassment.

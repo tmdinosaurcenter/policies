@@ -1,16 +1,25 @@
-# Policies
-Policies adopted by the Montana Dinosaur Center Board
+---
+description: Welcome to The Montana Dinosaur Center!
+---
 
-* [Conflict of Interest Policy](https://github.com/Montana-Dinosaur-Center/policies/blob/main/conflict-of-interest-policy.md), adopted April 2020
-* [Board Communication Policy](https://github.com/Montana-Dinosaur-Center/policies/board-communication-policy.md), adopted 9/22/2020
-* [Strategic Reserve Policy](https://github.com/Montana-Dinosaur-Center/policies/blob/main/strategic-reserve-policy.md), adopted September 2021
-* [Financial Policy](https://github.com/Montana-Dinosaur-Center/policies/blob/main/financial-policy.md), not yet adopted
-* [Budget Policy](https://github.com/Montana-Dinosaur-Center/policies/blob/main/budget-policy.md), not yet adopted
-* [Contingency or Disaster Preparedness Plan](https://github.com/Montana-Dinosaur-Center/policies/blob/main/contingency-or-disaster-policy.md), not yet adopted
-* [Investment Policy](https://github.com/Montana-Dinosaur-Center/policies/blob/main/investment-policy.md), not yet adopted
-* [Whistleblower Policy](https://github.com/Montana-Dinosaur-Center/policies/blob/main/investment-policy.md) *Found on Form 990: Part VI, Question 13*
-* [Compensation Policy]()
-* [Fundraising Policy]()
-* [Gift Acceptance]() *Found on Form 990: Schedule M, Part I, line 31*
-* [990 Review Policy]() *Schedule O*
-* [Public Disclosure Policy]() *Found on Form 990: Part VI, Section C, Lines 18 – 20*
+# Welcome Letter
+
+We are glad to have you as part of our organization.  We believe that every staff member, whether in a paid or volunteer position, plays a key and pivotal role in our success.
+
+As a staff member, certain things are expected of you to help The Montana Dinosaur Center maintain its image and status. Our corporate name is The Montana Dinosaur Center and we use the title of The Montana Dinosaur Center as our business operation and for public communications.&#x20;
+
+The purpose of this Handbook is to outline the policies and procedures pertinent for your employment experience. For the purpose of this handbook, all employees, whether paid or unpaid, will be referred to as “personnel”. &#x20;
+
+You will also notice that we ask you to acknowledge that you have read the Handbook and we will also ask this of any changes. We want to ensure that all our staff members have read and have access to the most current information related to employment here at the The Montana Dinosaur Center, so we require your acknowledgement. &#x20;
+
+Please read this handbook, then print and sign [the last page](broken-reference) and return it to the Executive Director.
+
+If you have any questions regarding this handbook or your employment experience, please do not hesitate to ask your department head &#x20;
+
+We hope you find your tenure with us to be an enjoyable and rewarding experience.
+
+Regards,
+
+Cory Coverdell&#x20;
+
+Executive Director

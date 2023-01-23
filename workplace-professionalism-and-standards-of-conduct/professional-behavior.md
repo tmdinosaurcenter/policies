@@ -1,0 +1,3 @@
+# Professional Behavior
+
+Professional behavior is expected at all times. Please leave personal issues at home. Be respectful of coworkers and customers. When in doubt of whether or not you or a coworker are using an appropriate attitude, use the Golden Rule and treat others the way you would like and expect to be treated. You will be expected to clock in and clock out to be adequately paid for your time here. If you feel sick or have an “off” day, it is your responsibility (and suggested) to have someone take your shift. This is not the responsibility of your supervisor, but he or she should be notified of any changes to the schedule right away.
