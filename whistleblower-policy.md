@@ -1,4 +1,4 @@
-# Financial Policy
+# Whistleblower Policy
 
 ### History of policy:
 

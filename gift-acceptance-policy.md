@@ -1,4 +1,4 @@
-# Financial Policy
+# Gift Acceptance Policy
 
 ### History of policy:
 

@@ -1,4 +1,4 @@
-# Financial Policy
+# Compensation Policy
 
 ### History of policy:
 

@@ -1,4 +1,4 @@
-# Communication Policy
+# Board Communication Policy
 
 ## Purpose
 
@@ -62,6 +62,10 @@ Below is a schedule for board meeting communications. It is the responsibility o
 |   1 Day Before Meeting:   |                                                                                                                                                                                                                                                                                                                                                                           |
 | Day of the Board Meeting: | <p>Remote board members are encouraged to log on to the online meeting platform 10-15 minutes early in case of problems.</p><p>Board members that are not present 5 minutes before the meeting and have not notified the President or Secretary of their absence will receive one phone call from a fellow board member in an attempt to connect them to the meeting.</p> |
 
+### History of policy
+
+* Adopted by Board of Directors September 22, 2020
+
 **Board Member Contact Information**
 
 | **Name**                                | **Phone**                    | **Email**                                                                                                                                                                         | **Other**                               |
@@ -70,8 +74,7 @@ Below is a schedule for board meeting communications. It is the responsibility o
 | <p>Erin Haacker<br>(Vice President)</p> | 509-222-9853                 | [erin.haacker@gmail.com](mailto:erin.haacker@gmail.com)                                                                                                                           |                                         |
 | Cory Coverdell (Executive Director)     | 406-539-5008 (cell)          | <p><a href="mailto:cory@tmdinosaurcenter.org">cory@tmdinosaurcenter.org</a> (work)</p><p><a href="mailto:rockyhound@gmail.com">rockyhound@gmail.com</a> (personal)</p>            |                                         |
 | Sandra Dogiakos (Secretary)             | 406-788-4365 (cell)          | [sandra@dogiakos.com](mailto:sandrak4365@gmail.com)                                                                                                                               |                                         |
-| Cindy Lockner (Treasurer)               | 717-580-5093                 | [clockner@comcast.net](mailto:clockner@comcast.net)                                                                                                                               |                                         |
-| Steve Dogiakos                          | 406-203-4679 (cell)          | [dogiakos@gmail.com](mailto:dogiakos@gmail.com)                                                                                                                                   | Text/email first                        |
+| <p>Steve Dogiakos<br>(Treasurer)</p>    | 406-203-4679 (cell)          | [dogiakos@gmail.com](mailto:dogiakos@gmail.com)                                                                                                                                   | Text/email first                        |
 | Bob Graham                              | 406-592-0288                 | [bob65mybp@aol.com](mailto:bob65mybp@aol.com)                                                                                                                                     |                                         |
 | Tony Lesofski                           | 406-469-2233 (home)          | [guntcher@3rivers.net](mailto:guntcher@3rivers.net)                                                                                                                               |                                         |
 | Dale Smith                              | 406-556-1046                 | [montanadsmith@msn.com](mailto:montanadsmith@msn.com)                                                                                                                             |                                         |

@@ -9,7 +9,7 @@ Policies adopted by the Montana Dinosaur Center Board
 * [Budget Policy](budget-policy.md), not yet adopted
 * [Contingency or Disaster Preparedness Plan](contingency-or-disaster-policy.md), not yet adopted
 * [Investment Policy](investment-policy.md), not yet adopted
-* [Whistleblower Policy](investment-policy.md) _Found on Form 990: Part VI, Question 13_
+* [Whistleblower Policy](whistleblower-policy.md) _Found on Form 990: Part VI, Question 13_
 * [Compensation Policy](./)
 * [Fundraising Policy](./)
 * [Gift Acceptance](./) _Found on Form 990: Schedule M, Part I, line 31_

@@ -1,4 +1,4 @@
-# Financial Policy
+# Public Disclosure Policy
 
 ### History of policy:
 
