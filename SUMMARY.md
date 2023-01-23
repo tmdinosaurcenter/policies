@@ -9,3 +9,4 @@
 * [Investment Policy](investment-policy.md)
 * [Strategic Reserve Policy](strategic-reserve-policy.md)
 * [Montana Dinosaur Center Conflict of Interest Policy](montana-dinosaur-center-conflict-of-interest-policy.md)
+* [Communication Policy](communication-policy.md)
