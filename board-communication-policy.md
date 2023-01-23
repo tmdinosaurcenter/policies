@@ -21,31 +21,31 @@ From [_Guidelines and Principles for Nonprofit Excellence_](https://guidelinesan
 
 From [_The Montana Dinosaur Center Bylaws_](https://docs.tmdinosaurcenter.org/policies-and-info/KHxCR15iKwLXTyQyEIfo/v/bylaws/bylaws)_,_ 2020.
 
-## Submitting Feedback
+### Submitting Feedback
 
-### Reports
+#### Reports
 
 Electronic copies of reports will be uploaded to the Board’s Google Drive folder as they come in, and electronic copies will be emailed out to board members two days before the regular board meeting. If a board member has questions or comments regarding the report they are encouraged to contact the author before the board meeting, otherwise, they can ask questions or comments after the report is given during the meeting.
 
-### Agenda Items
+#### Agenda Items
 
 If a board member has a topic they would like to see addressed at the meeting, they can submit their request to the President or Secretary before the agenda is set via email or written. Once the agenda is set (7 days before the board meeting), “agenda items may be added at the beginning of any regular meeting by presentation of the item topic by a Director and approval of the majority of Directors present” (TMDC Bylaws, 2020, p.10). Please keep in mind that board members can only request items to be on the agenda.
 
 Agenda items with supporting documents will be uploaded to the Board’s Google Drive folder, and electronic copies will be emailed out to board members two days before the regular board meeting. Questions or comments regarding the agenda items and document may be asked before the board meeting and suggestions (i.e. edits, additions, corrections, deletions, etc.) should be made during the discussion portion of a motion.
 
-### Issues and Suggestions
+#### Issues and Suggestions
 
 Issues and suggestions should be brought to the attention of the Board President to be addressed. If a board member feels uncomfortable discussing the matter with the President they may request another board member to contact the President on their behalf or they may approach another officer.
 
-## Committees
+#### Committees
 
 Committees are appointed by the President, if you would like to serve on a committee please submit a request for consideration.
 
-## Etiquette and Conduct
+#### Etiquette and Conduct
 
 Please be kind to each other. Every member of the board wants to do what’s best for the organization and that might be different for each person. Use your communications to improve and propel the board and the organization forward.
 
-## Meeting Communication Schedule
+#### Meeting Communication Schedule
 
 Below is a schedule for board meeting communications. It is the responsibility of each individual board member to check their email for these communications. If there are issues receiving these communications, it is the responsibility of the individual board member to contact the President or Secretary to identify the source of the error and remedy it.
 
@@ -66,7 +66,7 @@ Below is a schedule for board meeting communications. It is the responsibility o
 
 * Adopted by Board of Directors September 22, 2020
 
-**Board Member Contact Information**
+### **Board Member Contact Information**
 
 | **Name**                                   | **Phone**                    | **Email**                                                                                                                                                                         | **Other**                               |
 | ------------------------------------------ | ---------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------- |
