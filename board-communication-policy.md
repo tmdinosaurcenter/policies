@@ -59,12 +59,12 @@ Below is a schedule for board meeting communications. It is the responsibility o
 |  6-4 Days Before Meeting: |                                                                                                                                                                                                                                                                                                                                                                           |
 |   3 Days Before Meeting:  | Officer and committee/project reports due to the President or Secretary; they will be uploaded to the Board’s Google Drive folder as they come in.                                                                                                                                                                                                                        |
 |   2 Days Before Meeting:  | <p>Email sent out with digital attachments of meeting documents, as well as instructions for connecting to the meeting remotely.</p><p>Board members that are unable to attend the meeting are encouraged to notify the President or Secretary at least 2 days before the meeting.</p>                                                                                    |
-|   1 Day Before Meeting:   |                                                                                                                                                                                                                                                                                                                                                                           |
 | Day of the Board Meeting: | <p>Remote board members are encouraged to log on to the online meeting platform 10-15 minutes early in case of problems.</p><p>Board members that are not present 5 minutes before the meeting and have not notified the President or Secretary of their absence will receive one phone call from a fellow board member in an attempt to connect them to the meeting.</p> |
 
 ### History of policy
 
 * Adopted by Board of Directors September 22, 2020
+* Updated by Steve Dogiakos January 23, 2023 (removed past board members)
 
 ### **Board Member Contact Information**
 
