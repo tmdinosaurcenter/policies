@@ -1,7 +1,7 @@
 # Table of contents
 
 * [Policies](README.md)
-* [Conflict of Interest Policy](conflict-of-interest-policy/README.md)
+* [Conflict of Interest Policy](conflict-of-interest-policy.md)
   * [Board Member Conflict of Interests Disclosure Form](conflict-of-interest-policy/board-member-conflict-of-interests-disclosure-form.md)
   * [Digital Board Member Conflict of Interests Disclosure Form](https://forms.monday.com/forms/41bc9a5f10faa5d53a8c49558c633d70?r=use1)
 * [Board Communication Policy](board-communication-policy.md)
