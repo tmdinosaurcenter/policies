@@ -11,7 +11,7 @@ Policies adopted by the Montana Dinosaur Center Board
   * [Digital Conflict of Interest Statement](https://forms.monday.com/forms/9501dd91aed9008061d31455fc6cf45a?r=use1)
 * [Board Communication Policy](https://docs.tmdinosaurcenter.org/policies/), adopted September 2020
 * [Strategic Reserves Policy](strategic-reserve-policy.md), adopted September 2021
-* [Confidentiality Policy](https://docs.tmdinosaurcenter.org/policies-and-info/confidentiality-policy), adopted Februray 2023
+* [Confidentiality Policy](https://docs.tmdinosaurcenter.org/policies-and-info/confidentiality-policy), adopted February 2023
 
 {% hint style="info" %}
 Policies not yet adopted
@@ -27,4 +27,4 @@ Policies not yet adopted
 * [Gift Acceptance](./) _Found on Form 990: Schedule M, Part I, line 31_
 * [990 Review Policy](./) _Schedule O_
 * [Public Disclosure Policy](./) _Found on Form 990: Part VI, Section C, Lines 18 – 20_
-* ary 2023
+* [Donor Recognition Policy](https://docs.tmdinosaurcenter.org/policies-and-info/v/policies/draft-donor-recognition-policy), referred to by the Gift Acceptance Policy
