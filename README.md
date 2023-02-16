@@ -16,4 +16,4 @@ Policies adopted by the Montana Dinosaur Center Board
 * [990 Review Policy](./) _Schedule O_
 * [Public Disclosure Policy](./) _Found on Form 990: Part VI, Section C, Lines 18 – 20_
 * [Confidentiality Policy](https://docs.tmdinosaurcenter.org/policies-and-info/KHxCR15iKwLXTyQyEIfo/), adopted February 2023
-  * Confidentiality Agreement, adopted February 2023
+  * [Confidentiality Agreement](confidentiality-policy/board-of-directors-confidentiality-agreement.md), adopted February 2023
