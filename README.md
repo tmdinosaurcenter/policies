@@ -9,6 +9,7 @@ Policies adopted by the Montana Dinosaur Center Board
   * [Digital Conflict of Interest Statement](https://forms.monday.com/forms/9501dd91aed9008061d31455fc6cf45a?r=use1)
 * [Board Communication Policy](https://docs.tmdinosaurcenter.org/policies/), adopted September 2020
 * [Strategic Reserves Policy](strategic-reserve-policy.md), adopted September 2021
+* [Confidentiality Policy](https://docs.tmdinosaurcenter.org/policies-and-info/confidentiality-policy), adopted Februray 2023
 
 {% hint style="info" %}
 Policies not yet adopted
@@ -18,7 +19,7 @@ Policies not yet adopted
 * [Budget Policy](budget-policy.md), not yet adopted, referred to in Strategic Reserves Policy
 * [Contingency or Disaster Preparedness Plan](contingency-or-disaster-policy.md), not yet adopted, referred to in Strategic Reserves Policy
 * [Investment Policy](investment-policy.md), not yet adopted, referred to in Strategic Reserves Policy
-* [Whistleblower Policy](whistleblower-policy.md) _Found on Form 990: Part VI, Question 13_
+* [Whistleblower Policy](broken-reference) _Found on Form 990: Part VI, Question 13_
 * [Compensation Policy](./)
 * [Fundraising Policy](./)
 * [Gift Acceptance](./) _Found on Form 990: Schedule M, Part I, line 31_

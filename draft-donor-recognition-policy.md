@@ -1,2 +1,2 @@
-# \[DRAFT]Donor Recognition Policy
+# \[DRAFT] Donor Recognition Policy
 

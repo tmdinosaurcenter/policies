@@ -1,10 +1,10 @@
 # \[DRAFT] Whistleblower Policy
 
-## The Montana Dinosaur Center (TMDC) [Whistleblower and Non-Retaliation Policy ](#user-content-fn-1)[^1]
+## [Whistleblower and Non-Retaliation Policy ](#user-content-fn-1)[^1]
 
 ### 1. General&#x20;
 
-TMDC's Code of Ethics requires directors, officers, employees, and volunteers to observe high standards of business and personal ethics in the conduct of their duties and responsibilities.&#x20;
+The Montana Dinosaur Center Code of Ethics requires directors, officers, employees, and volunteers to observe high standards of business and personal ethics in the conduct of their duties and responsibilities.&#x20;
 
 As employees and representatives of TMDC, we must practice honesty and integrity in fulfilling our responsibilities and comply with all applicable laws and regulations.&#x20;
 
@@ -12,7 +12,7 @@ As employees and representatives of TMDC, we must practice honesty and integrity
 
 It is the responsibility of all directors, officers, employees, and volunteers to comply with and to report violations or suspected violations of the Code of Ethics, TMDC policies, or laws in accordance with this policy.&#x20;
 
-#### 3. No Retaliation
+### 3. No Retaliation
 
 No director, officer, employee, volunteer, or contractor who in good faith reports a violation of the Code, MNA policies, or law shall suffer harassment, retaliation or adverse employment consequence. An employee who retaliates against someone who has reported a violation in good faith is subject to discipline up to and including termination of employment. This Whistleblower Policy is intended to encourage and enable employees and others to raise serious concerns within MNA prior to seeking resolution outside MNA.&#x20;
 
