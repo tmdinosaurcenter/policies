@@ -15,4 +15,4 @@
 * [990 Review Policy](990-review-policy.md)
 * [Public Disclosure Policy](public-disclosure-policy.md)
 * [Confidentiality Policy](confidentiality-policy/README.md)
-  * [Confidentiality Statement for Board and Committee Members](confidentiality-policy/confidentiality-statement-for-board-and-committee-members.md)
+  * [Board of Directors Confidentiality Agreement](confidentiality-policy/board-of-directors-confidentiality-agreement.md)
