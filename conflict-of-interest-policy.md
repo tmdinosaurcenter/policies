@@ -1,5 +1,5 @@
 ---
-description: As adopted April 2020.
+description: As adopted April 2020, and reaffirmed February 2023
 ---
 
 # Conflict of Interest Policy
