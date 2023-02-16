@@ -9,6 +9,7 @@ Policies adopted by the Montana Dinosaur Center Board
   * [Digital Conflict of Interest Statement](https://forms.monday.com/forms/9501dd91aed9008061d31455fc6cf45a?r=use1)
 * [Board Communication Policy](https://docs.tmdinosaurcenter.org/policies/), adopted September 2020
 * [Strategic Reserve Policy](strategic-reserve-policy.md), adopted September 2021
+* Strategic Reserve Policies
 * [Financial Policy](financial-policy.md), not yet adopted
 * [Budget Policy](budget-policy.md), not yet adopted
 * [Contingency or Disaster Preparedness Plan](contingency-or-disaster-policy.md), not yet adopted

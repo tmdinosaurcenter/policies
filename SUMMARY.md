@@ -20,3 +20,4 @@
 * [Public Disclosure Policy](public-disclosure-policy.md)
 * [Confidentiality Policy](confidentiality-policy/README.md)
   * [Board of Directors Confidentiality Agreement](confidentiality-policy/board-of-directors-confidentiality-agreement.md)
+* [Strategic Reserve Policies](strategic-reserve-policies.md)
