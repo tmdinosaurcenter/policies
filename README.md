@@ -29,3 +29,4 @@ Policies not yet adopted
 * [Public Disclosure Policy](./) _Found on Form 990: Part VI, Section C, Lines 18 – 20_
 * [Donor Recognition Policy](https://docs.tmdinosaurcenter.org/policies-and-info/v/policies/draft-donor-recognition-policy), referred to by the Gift Acceptance Policy
 * AAM Core Documents (on AAM website, 5 core docs)
+* BLM Procedures
