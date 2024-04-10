@@ -10,6 +10,7 @@
 * [Strategic Reserve Policy](strategic-reserve-policy.md)
 * [Confidentiality Policy](confidentiality-policy/README.md)
   * [Board of Directors Confidentiality Agreement](confidentiality-policy/board-of-directors-confidentiality-agreement.md)
+* [Key Policy](key-policy.md)
 * [\[DRAFT\] Financial Policy](financial-policy.md)
 * [\[DRAFT\] Budget Policy](budget-policy.md)
 * [\[DRAFT\] Contingency or Disaster Policy](contingency-or-disaster-policy.md)
