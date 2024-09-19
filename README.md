@@ -30,3 +30,4 @@ Policies not yet adopted
 * [Donor Recognition Policy](https://docs.tmdinosaurcenter.org/policies-and-info/v/policies/draft-donor-recognition-policy), referred to by the Gift Acceptance Policy
 * AAM Core Documents (on AAM website, 5 core docs)
 * BLM Procedures
+* Collections Management Policy
