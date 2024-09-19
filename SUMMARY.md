@@ -21,3 +21,4 @@
 * [\[DRAFT\] Gift Acceptance Policy](draft-gift-acceptance-policy.md)
 * [\[DRAFT\] Whistleblower Policy](draft-whistleblower-policy.md)
 * [\[DRAFT\] Donor Recognition Policy](draft-donor-recognition-policy.md)
+* [\[DRAFT\] Collections Management Policy](draft-collections-management-policy.md)
