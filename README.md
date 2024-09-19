@@ -21,7 +21,7 @@ Policies not yet adopted
 * [Budget Policy](budget-policy.md), not yet adopted, referred to in Strategic Reserves Policy
 * [Contingency or Disaster Preparedness Plan](contingency-or-disaster-policy.md), not yet adopted, referred to in Strategic Reserves Policy
 * [Investment Policy](investment-policy.md), not yet adopted, referred to in Strategic Reserves Policy
-* [Whistleblower Policy](broken-reference) _Found on Form 990: Part VI, Question 13_
+* [Whistleblower Policy ](https://www.lawhelp.org/files/7C92C43F-9283-A7E0-5931-E57134E903FB/attachments/B2D746C6-B926-A6C3-DC91-9D2D7233A7AA/whistleblower-policy-alert-2017-update-final.pdf)_Found on Form 990: Part VI, Question 13_
 * [Compensation Policy](./)
 * [Fundraising Policy](./)
 * [Gift Acceptance](./) _Found on Form 990: Schedule M, Part I, line 31_
