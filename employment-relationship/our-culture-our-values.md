@@ -16,6 +16,6 @@ Montana Dinosaur Center Representation – You always work for the Dinosaur Cent
 
 ### Elitism
 
-Here at the Dinosaur Center, we work to be the best at what we do. That doesn’t mean we treat people with less respect because they have less training, education or experience. Remember that everyone who works here is working to gain knowledge and experience. Be gentle and helpful with criticism and accept help and suggestions when it is offered. Do your best to not take constructive criticism personally.&#x20;
+Here at The Montana Dinosaur Center, we work to be the best at what we do. That doesn’t mean we treat people with less respect because they have less training, education or experience. Remember that everyone who works here is working to gain knowledge and experience. Be gentle and helpful with criticism and accept help and suggestions when it is offered. Do your best to not take constructive criticism personally.&#x20;
 
 \

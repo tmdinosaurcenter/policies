@@ -2,7 +2,7 @@
 
 ### Mission
 
-The mission of Timescale Adventures is:&#x20;
+The mission of The Montana Dinosaur Center is:&#x20;
 
 1. To provide hands-on educational experiences for the public, based as much as possible on actual research sites and utilizing research personnel;&#x20;
 2. to promote research and publications on the objects and information collected; and&#x20;
