@@ -1,4 +1,8 @@
-# \[DRAFT] Reimbursement Policy
+---
+description: Adopted by the board July 10, 2025
+---
+
+# Reimbursement Policy
 
 ### Purpose <a href="#docs-internal-guid-d462e15a-7fff-c737-4077-3be6e84e43f0" id="docs-internal-guid-d462e15a-7fff-c737-4077-3be6e84e43f0"></a>
 
