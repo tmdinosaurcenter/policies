@@ -1,3 +1,7 @@
+---
+description: Adopted by the board July 10, 2025.
+---
+
 # Key Policy
 
 ### Key Issuance Eligibility
