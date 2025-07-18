@@ -3,7 +3,7 @@
 * [Policies](README.md)
 * [Conflict of Interest Policy](conflict-of-interest-policy.md)
   * [Board Member Conflict of Interests Disclosure Form](conflict-of-interest-policy/board-member-conflict-of-interests-disclosure-form.md)
-  * [Conflict of Interest Statement](conflict-of-interest-policy/conflict-of-interest-statement.md)
+  * [Digital Board Conflict of Interest Disclosure Form](https://tmdc.cc/board-coi-disclosure?utm_source=gitbook\&utm_medium=link\&utm_campaign=board_handbook)
 * [Board Communication Policy](board-communication-policy.md)
 * [Strategic Reserve Policy](strategic-reserve-policy.md)
 * [Confidentiality Policy](confidentiality-policy/README.md)

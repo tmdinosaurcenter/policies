@@ -1,6 +1,6 @@
 # Board Member Conflict of Interests Disclosure Form
 
-
+[You can fill out this form digitally](https://tmdc.cc/board-coi-disclosure?utm_source=gitbook\&utm_medium=link\&utm_campaign=board_handbook).
 
 Date: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
