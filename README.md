@@ -5,7 +5,7 @@ Policies adopted by the Montana Dinosaur Center Board
 {% endhint %}
 
 * [Conflict of Interest Policy](conflict-of-interest-policy.md), adopted April 2020, re-adopted February 2023
-  * B[oard Member Conflict of Interest Disclosure Form](conflict-of-interest-policy/board-member-conflict-of-interests-disclosure-form.md)
+  * [Board Member Conflict of Interest Disclosure Form](conflict-of-interest-policy/board-member-conflict-of-interests-disclosure-form.md)
   * [Conflict of Interest Statement](broken-reference)
 * [Board Communication Policy](https://docs.tmdinosaurcenter.org/policies/), adopted September 2020
 * [Strategic Reserves Policy](strategic-reserve-policy.md), adopted September 2021
@@ -32,4 +32,3 @@ Policies not yet adopted
 * [Donor Recognition Policy](https://docs.tmdinosaurcenter.org/policies-and-info/v/policies/draft-donor-recognition-policy), referred to by the Gift Acceptance Policy
 * AAM Core Documents (on AAM website, 5 core docs)
 * BLM Procedures
-* Collections Management Policy
