@@ -17,12 +17,11 @@ This policy establishes clear guidelines for documenting, approving, and reporti
 
 * A complete and accurate expense report must be submitted monthly, no later than the 20th day of the following month.
 * Expense reports must include:
-*
   * Date of each expense
   * Amount of each expense
   * Description of the business purpose
   * Original or digital receipts attached
-* Reports must be completed using the Montana Dinosaur Center’s approved expense reporting form.
+  * Reports must be completed using the Montana Dinosaur Center’s approved expense reporting form.
 
 ### 3. Use of Organization Credit Cards and Debit Cards
 
