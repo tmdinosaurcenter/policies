@@ -4,9 +4,10 @@ Use of the cash register at the museum’s gift shop requires training and autho
 
 ### When taking payment&#x20;
 
-* Do not accept checks for payment
-* Check for expiration date of all credit cards.
-* Instructions and guidelines will be provided upon authorization for use of register.&#x20;
+* Don't take Checks without supervisors approval
+* Be sure to write the driver's license or military ID number on the check.
+* Check for the expiration date of all credit cards.
+* instructions and guidelines will be provided upon authorization for use of register.
 
 ### Gift Shop Duties
 

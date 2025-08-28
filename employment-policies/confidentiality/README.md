@@ -12,19 +12,21 @@ Anything shared or made available through MDC’s social media accounts may be r
 
 ### Things that can be shared without permission:&#x20;
 
+* ● Picture/video of unprepared bones that are not diagnostic to a genus level (e. g. a hadrosaur femur, rib, vertebrae, etc. that does not include geocoordinates in the photo EXIF data or other places)\
+  ● Landscape photos without the dig site visible so that people can’t figure out the location based on the photos
 * Picture/video of unprepared bones that are not diagnostic to a genus level (e. g. a hadrosaur femur, rib, vertebrae, etc. that does not include geocoordinates in the photo EXIF data or other places)
 * Landscape photos without the dig site visible so that people can’t figure out the location  based on the photos&#x20;
 
 ### Some things that can't be shared without permission (not a definitive list):&#x20;
 
-* Pictures and videos of Skull bones.&#x20;
-* Proprietary documentation (like this one)&#x20;
+* Pictures and videos of Skull bones.
+* Proprietary documentation (like this one)
   * Prep sheets
   * Journal entries
-* GPS coordinates of dig sites (especially in photograph metadata from your phone!)&#x20;
+* GPS coordinates of dig sites (especially in photograph metadata from your phone!)
 * Directions to dig sites
 * Landowner Information
-* WiFi passwords
+* WIFI passwords
 * Security codes
 * Keys
 
