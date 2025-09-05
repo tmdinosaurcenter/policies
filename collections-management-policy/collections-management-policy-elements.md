@@ -50,7 +50,7 @@ Any object that does not have adequate provenience or proof of legal ownership w
 
     1.  Purpose&#x20;
 
-        While the collections of TMDC are selected carefully and with intent, there may be times when objects need to be removed from collections. They will be carefully selected for a variety of reasons, and will be done within all legal and ethical guidelines set forth in laws, regulations, AAM ethics, and Society of Vertebrate Paleontology ethics.
+        While the collections of TMDC are selected carefully and with intent, there may be times when objects need to be removed from collections. They will be carefully selected for a variety of reasons, and will be done within all legal and ethical guidelines set forth in laws, regulations, [AAM ethics](aam-code-of-ethics-for-museums.md), and [Society of Vertebrate Paleontology ethics.](https://docs.tmdinosaurcenter.org/board/policies/collections-management-policy/svp-ethics-code)
 
 
     2.  Authority&#x20;

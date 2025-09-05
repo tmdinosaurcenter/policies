@@ -12,6 +12,7 @@
   * [Collections Management Policy Elements](collections-management-policy/collections-management-policy-elements.md)
   * [Collections Management Appendices](collections-management-policy/collections-management-appendices.md)
   * [AAM Code of Ethics for Museums](collections-management-policy/aam-code-of-ethics-for-museums.md)
+  * [SVP Ethics Code](collections-management-policy/svp-ethics-code.md)
 * [Key Policy](key-policy.md)
 * [Mail Handling Policy](mail-handling-policy.md)
 * [Gift Acceptance Policy](gift-acceptance-policy.md)
