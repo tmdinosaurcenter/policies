@@ -13,11 +13,9 @@ From [_Guidelines and Principles for Nonprofit Excellence_](https://guidelinesan
 “If notice is given of a regular or special meeting, notice must be given to each Director either personally, by U.S. mail or private carrier, or other form of electronic, wire, or wireless communication by correct address or authenticated electronic identification shown in the Corporation’s record of Directors. If e-mailed, a notice shall be deemed delivered when delivery receipt is received or an electronic notice of delivery is returned to the sender of the notice. If mailed, a notice shall be deemed delivered at the earliest of\
 
 
-1\. five days after deposited in the U.S. mail, as evidenced by the postmark, if it is mailed postpaid and with the correct postage to the Director,
-
-2\. the date shown on the return receipt if sent by registered or certified mail and the receipt is signed by or on behalf of the Director, or
-
-3\. the date received.
+1. five days after deposited in the U.S. mail, as evidenced by the postmark, if it is mailed postpaid and with the correct postage to the Director,
+2. the date shown on the return receipt if sent by registered or certified mail and the receipt is signed by or on behalf of the Director, or
+3. the date received.
 
 From [_The Montana Dinosaur Center Bylaws_](https://docs.tmdinosaurcenter.org/policies-and-info/KHxCR15iKwLXTyQyEIfo/v/bylaws/bylaws)_,_ 2020.
 
@@ -55,7 +53,3 @@ Below is a schedule for board meeting communications. It is the responsibility o
 
 * Adopted by Board of Directors September 22, 2020
 * Updated by Steve Dogiakos January 23, 2023 (removed past board members)
-
-### **Board Member Contact Information**
-
-<table data-header-hidden><thead><tr><th width="205"></th><th width="164"></th><th width="308"></th><th></th></tr></thead><tbody><tr><td><strong>Name</strong></td><td><strong>Phone</strong></td><td><strong>Email</strong></td><td><strong>Other</strong></td></tr><tr><td>Stacia Martineau (President)</td><td>206-856-5267 (cell, text OK)</td><td><p><a href="mailto:stacia@tmdinosaurcenter.org">stacia@tmdinosaurcenter.org</a> (work, preferred)</p><p><a href="mailto:staciamm@gmail.com">staciamm@gmail.com</a> (personal)</p></td><td></td></tr><tr><td>Cory Coverdell (Executive Director)</td><td>406-539-5008 (cell)</td><td><p><a href="mailto:cory@tmdinosaurcenter.org">cory@tmdinosaurcenter.org</a> (work)</p><p><a href="mailto:rockyhound@gmail.com">rockyhound@gmail.com</a> (personal)</p></td><td></td></tr><tr><td>Erin Haacker<br>(Vice President)</td><td>509-222-9853</td><td><a href="mailto:erin.haacker@gmail.com">erin.haacker@gmail.com</a></td><td></td></tr><tr><td>Steve Dogiakos<br>(Treasurer)</td><td>406-203-4679 (cell)</td><td><a href="mailto:dogiakos@gmail.com">dogiakos@gmail.com</a></td><td>Text/email first</td></tr><tr><td>Bruce Wright<br>(Interim Secretary)</td><td>815-342-8993</td><td><a href="mailto:brucewright@comcast.net">brucewright@comcast.net</a></td><td></td></tr><tr><td>Sandra Dogiakos</td><td>406-788-4365 (cell)</td><td><a href="mailto:sandrak4365@gmail.com">sandra@dogiakos.com</a></td><td></td></tr><tr><td>Bob Graham</td><td>406-592-0288</td><td><a href="mailto:bob65mybp@aol.com">bob65mybp@aol.com</a></td><td></td></tr><tr><td>Tony Lesofski</td><td>406-469-2233 (home)</td><td><a href="mailto:guntcher@3rivers.net">guntcher@3rivers.net</a></td><td></td></tr><tr><td>Dale Smith</td><td>406-556-1046</td><td><a href="mailto:montanadsmith@msn.com">montanadsmith@msn.com</a></td><td></td></tr><tr><td>Dave Trexler</td><td>406-590-7432 (cell)</td><td><a href="mailto:dinoguy10@yahoo.com">dinoguy10@yahoo.com</a></td><td></td></tr><tr><td>TMDC/Museum</td><td>406-469-2211</td><td><a href="mailto:info@tmdinosaurcenter.org">info@tmdinosaurcenter.org</a></td><td><p>PO Box 786</p><p>Bynum, MT 59419</p></td></tr></tbody></table>
