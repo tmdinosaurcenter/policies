@@ -1,34 +1,24 @@
-# Policies
+---
+description: Welcome to The Montana Dinosaur Center!
+---
 
-{% hint style="info" %}
-Policies adopted by the Montana Dinosaur Center Board
-{% endhint %}
+# Welcome Letter
 
-* [Conflict of Interest Policy](conflict-of-interest-policy.md), adopted April 2020, re-adopted February 2023
-  * [Board Member Conflict of Interest Disclosure Form](conflict-of-interest-policy/board-member-conflict-of-interests-disclosure-form.md)
-  * [Conflict of Interest Statement](broken-reference)
-* [Board Communication Policy](https://docs.tmdinosaurcenter.org/board/policies/board-communication-policy), adopted September 2020
-* [Strategic Reserves Policy](strategic-reserve-policy.md), adopted September 2021
-* [Confidentiality Policy](confidentiality-policy/), adopted February 2023
-* [Collections Management Policy](collections-management-policy/)
-* [Mail Handling Policy](mail-handling-policy.md), adopted July 2025
-* [Reimbursement Policy](reimbursement-policy.md), adopted July 2025
-* [Gift Acceptance Policy](gift-acceptance-policy.md), adopted July 2025
+We are glad to have you as part of our organization.  We believe that every staff member, whether in a paid or volunteer position, plays a key and pivotal role in our success.&#x20;
 
-{% hint style="info" %}
-Policies not yet adopted
-{% endhint %}
+As a staff member, certain things are expected of you to help The Montana Dinosaur Center maintain its image and status.  Our corporate name is The Montana Dinosaur Center and we use the title of The Montana Dinosaur Center as our business operation and for public communications.&#x20;
 
-* [Financial Policy](financial-policy.md), not yet adopted, referred to in Strategic Reserves Policy
-* [Budget Policy](budget-policy.md), not yet adopted, referred to in Strategic Reserves Policy
-* [Contingency or Disaster Preparedness Plan](contingency-or-disaster-policy.md), not yet adopted, referred to in Strategic Reserves Policy
-* [Investment Policy](investment-policy.md), not yet adopted, referred to in Strategic Reserves Policy
-* [Whistleblower Policy ](https://www.lawhelp.org/files/7C92C43F-9283-A7E0-5931-E57134E903FB/attachments/B2D746C6-B926-A6C3-DC91-9D2D7233A7AA/whistleblower-policy-alert-2017-update-final.pdf)_Found on Form 990: Part VI, Question 13_
-* [Compensation Policy](./)
-* [Fundraising Policy](./)
-* [Gift Acceptance](./) _Found on Form 990: Schedule M, Part I, line 31_
-* [990 Review Policy](./) _Schedule O_
-* [Public Disclosure Policy](./) _Found on Form 990: Part VI, Section C, Lines 18 – 20_
-* [Donor Recognition Policy](https://docs.tmdinosaurcenter.org/policies-and-info/v/policies/draft-donor-recognition-policy), referred to by the Gift Acceptance Policy
-* AAM Core Documents (on AAM website, 5 core docs)
-* BLM Procedures
+The purpose of this Handbook is to outline the policies and procedures pertinent for your employment experience.  For the purpose of this handbook, all employees, whether paid or unpaid, will be referred to as “personnel”.&#x20;
+
+You will also notice that we ask you to acknowledge that you have read the Handbook and we will also ask this of any changes.  We want to ensure that all our staff members have read and have access to the most current information related to employment here at the The Montana Dinosaur Center, so we require your acknowledgement.&#x20;
+
+Please read the Handbook, then sign the last page and return it to the Executive Director Cory Coverdell.
+
+If you have any questions regarding this Handbook or your employment experience, please do not hesitate to ask your Department Head&#x20;
+
+We hope you find your tenure with us to be an enjoyable and rewarding experience.
+
+Regards,
+
+Cory Coverdell\
+Executive Director
