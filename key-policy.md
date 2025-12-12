@@ -1,5 +1,5 @@
 ---
-description: Adopted by the board July 10, 2025.
+description: Adopted by the board April 5, 2024.
 ---
 
 # Key Policy
