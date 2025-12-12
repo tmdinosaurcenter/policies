@@ -8,7 +8,7 @@ description: Adopted by the board April 5, 2024.
 
 Keys may be issued to authorized individuals based on their role and need for access as determined by the Executive Director or designated authority. Application: Authorized individuals must complete a Key Issuance Form, which requires approval by the Executive Director. Distribution: Keys will be distributed by the Executive Director or designated personnel. Each key must be signed for upon receipt.&#x20;
 
-### Key Tracking Database:
+### Key Tracking Database
 
 A Key Tracking Database will be maintained by the Security Department, documenting the key number, type of key, issuance date, and the name of the individual to whom the key is issued. Audits: Regular audits of the Key Tracking Database will be conducted to ensure compliance with the policy and to identify any discrepancies. Key Return Obligation: Authorized individuals are required to return keys upon termination of their role or employment, or upon request by the Executive Director.&#x20;
 
