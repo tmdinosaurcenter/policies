@@ -27,7 +27,6 @@ Policies not yet adopted
 * [Whistleblower Policy ](https://www.lawhelp.org/files/7C92C43F-9283-A7E0-5931-E57134E903FB/attachments/B2D746C6-B926-A6C3-DC91-9D2D7233A7AA/whistleblower-policy-alert-2017-update-final.pdf)_Found on Form 990: Part VI, Question 13_
 * [Compensation Policy](./)
 * [Fundraising Policy](./)
-* [Gift Acceptance](./) _Found on Form 990: Schedule M, Part I, line 31_
 * [990 Review Policy](./) _Schedule O_
 * [Public Disclosure Policy](./) _Found on Form 990: Part VI, Section C, Lines 18 – 20_
 * [Donor Recognition Policy](https://docs.tmdinosaurcenter.org/policies-and-info/v/policies/draft-donor-recognition-policy), referred to by the Gift Acceptance Policy
