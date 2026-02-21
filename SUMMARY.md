@@ -13,6 +13,7 @@
   * [Collections Management Appendices](collections-management-policy/collections-management-appendices.md)
   * [AAM Code of Ethics for Museums](collections-management-policy/aam-code-of-ethics-for-museums.md)
   * [SVP Ethics Code](collections-management-policy/svp-ethics-code.md)
+* [\[DRAFT\] Pest Management Plan](draft-pest-management-plan.md)
 * [Key Policy](key-policy.md)
 * [Mail Handling Policy](mail-handling-policy.md)
 * [Gift Acceptance Policy](gift-acceptance-policy.md)
