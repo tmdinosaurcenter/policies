@@ -7,36 +7,32 @@ layout: landing
 
 # Employee Acknowledgement Form
 
-I understand and agree that nothing contained in this Employee Handbook creates, or is intended to create, an employment contract or a promise or guarantee of continued employment.  I also understand that The Montana Dinosaur Center may change, modify, or revoke any of its policies and procedures at any time, with or without prior notice.
+I understand and agree that nothing contained in this Employee Handbook creates, or is intended to create, an employment contract or a promise or guarantee of continued employment. I also understand that The Montana Dinosaur Center may change, modify, or revoke any of its policies and procedures at any time, with or without prior notice.
 
-I hereby acknowledge that I have read The Montana Dinosaur Center Employee Handbook and understand the contents as stated. &#x20;
+I hereby acknowledge that I have read The Montana Dinosaur Center Employee Handbook and understand the contents as stated.
 
 Submitted by:
 
-\
-
+<br>
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_         \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 Employee Signature               Print Name
 
-\
-
+<br>
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_         \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 Title                                           Date
 
-\
-
+<br>
 
 Received by:
 
-\
-
+<br>
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_         \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 Executive Director               Date
 
-\
+<br>
