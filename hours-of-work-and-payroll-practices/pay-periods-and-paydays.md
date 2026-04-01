@@ -1,3 +1,5 @@
 # Pay Periods and Paydays
 
-Employees are paid monthly in the first 3 Business days of each month or the next regular business day should the regular pay day fall on a weekend or holiday.
+Employees are paid semi-monthly, on the 1st and 15th of each month. If a scheduled payday falls on a weekend or recognized holiday, employees will be paid on the preceding business day.
+
+Our work week is from Sunday until Saturday.

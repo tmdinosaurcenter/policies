@@ -1,6 +1,14 @@
 # Occupancy & Accommodations
 
-Montana Dinosaur Center provides accommodations for summer staff as availability allows. This policy outlines the conditions which must be met to remain in good standing while you are using museum facilities. We want everyone to have a good experience working here and we all need to work together to make that happen.  Management provides the space and place for you to live while you are working here.&#x20;
+TMDC may provide staff accommodation trailers to employees as availability allows. Trailer assignments are made on a first-come, first-served basis and are subject to availability. TMDC does not guarantee that accommodation will be available to every employee. Depending on the number of staff and available units, employees may be assigned to share a trailer.
+
+**This arrangement is a license to use, incident to employment only.** It does not create a landlord-tenant relationship, a lease, a rental agreement, or any interest in real property. The accommodation is not provided in exchange for rent or any separate consideration. The Montana Residential Landlord and Tenant Act (MCA Title 70, Chapter 24) does not apply.
+
+TMDC pays all utilities associated with the trailers, including electrical service. Trailers have electrical service but do not have running water or plumbing. Potable water and sanitation needs are met through the communal facilities on campus.
+
+The accommodation license terminates automatically and immediately upon separation from TMDC employment for any reason, whether voluntary or involuntary, including at the conclusion of a seasonal term. Upon termination of the license, employees must vacate and remove all personal belongings within 48 hours.
+
+No animals of any kind are permitted in trailers or anywhere on TMDC property except ADA service animals. See the Animals in the Workplace policy for full details.
 
 ### Trailers&#x20;
 
@@ -48,7 +56,7 @@ TMDC vehicles are not for personal use without specific permission. They will re
 
 ### Internet Usage
 
-There are a lot of people using the internet at the museum, and the business of MDC has priority for bandwidth needs. Please be respectful and refrain from downloading large updates during prime times of usage. Torrenting, cryptomining, excessive bandwidth usage, and all illegal activities are prohibited on TMDC networks.
+Complimentary internet access is provided as a benefit of employment and is subject to TMDC's technology use policies. There are a lot of people using the internet at the museum, and the business of TMDC has priority for bandwidth needs. Please be respectful and refrain from downloading large updates during prime times of usage. Excessive bandwidth usage and all illegal activities are prohibited on TMDC networks.
 
 ### Desk space&#x20;
 

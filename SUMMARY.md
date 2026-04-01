@@ -35,6 +35,7 @@
 
 ## 💰 Hours of Work and Payroll Practices
 
+* [Timekeeping](hours-of-work-and-payroll-practices/timekeeping.md)
 * [Pay Periods and Paydays](hours-of-work-and-payroll-practices/pay-periods-and-paydays.md)
 
 ## Employee Time Off and Leaves of Absence
@@ -55,6 +56,10 @@
 ## Leaving The Montana Dinosaur Center
 
 * [Employment Termination](leaving-the-montana-dinosaur-center/employment-termination.md)
+
+## Legal Notices & Required Postings <a href="#legal-required-postings" id="legal-required-postings"></a>
+
+* [Workers' Compensation](legal-required-postings/workers-compensation.md)
 
 ## Employee Acknowledgement
 
