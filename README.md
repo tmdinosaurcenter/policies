@@ -12,7 +12,7 @@ The purpose of this Handbook is to outline the policies and procedures pertinent
 
 You will also notice that we ask you to acknowledge that you have read the Handbook and we will also ask this of any changes.  We want to ensure that all our staff members have read and have access to the most current information related to employment here at the The Montana Dinosaur Center, so we require your acknowledgement.&#x20;
 
-Please read the Handbook, then sign the last page and return it to the Executive Director Cory Coverdell.
+Please read the Handbook, then sign the last page and return it to the Interim Executive Director Dustin Warford.
 
 If you have any questions regarding this Handbook or your employment experience, please do not hesitate to ask your Department Head&#x20;
 
