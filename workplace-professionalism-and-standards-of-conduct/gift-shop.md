@@ -24,4 +24,4 @@ Use of the cash register at the museum’s gift shop requires training and autho
 
 Internet and phone usage is limited to necessity and staff breaks. If you are caught using the museum internet inappropriately (i.e. not for a customer’s inquiries or for museum requirements) during your shift, you will be subject to a verbal warning and could be grounds for your immediate dismissal.
 
-\
+<br>

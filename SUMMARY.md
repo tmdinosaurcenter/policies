@@ -7,7 +7,6 @@
 ## Employment Relationship
 
 * [Our Company](employment-relationship/our-company.md)
-* [Our Culture, Our Values](employment-relationship/our-culture-our-values.md)
 * [Code of Conduct and Business Ethics](employment-relationship/code-of-conduct-and-business-ethics.md)
 
 ## Employment Policies

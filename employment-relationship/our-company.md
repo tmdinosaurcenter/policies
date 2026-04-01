@@ -10,4 +10,4 @@ The mission of The Montana Dinosaur Center is:&#x20;
 
 This corporation is dedicated to the sharing of information with other organizations for the advancement of science and the education and enjoyment of the public.
 
-\
+<br>

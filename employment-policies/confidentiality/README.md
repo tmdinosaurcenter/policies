@@ -32,4 +32,4 @@ Anything shared or made available through MDC’s social media accounts may be r
 
 ## If you are ever uncertain whether something is shareable, please consult the Executive Director
 
-Failure to abide by this policy may result in suspension, dismissal, or civil liability.\
+Failure to abide by this policy may result in suspension, dismissal, or civil liability.<br>
